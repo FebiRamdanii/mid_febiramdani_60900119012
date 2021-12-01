@@ -7,5 +7,5 @@
     <h1>Hayy,Selamat Datang Dilaporan 1,</h1> 
         <a href="{{url(route('BiodataDiri'))}}">Silahkan Ke Biodata Diri </a>
 </body>
-berakhir
+berakhir disini
 </html>
